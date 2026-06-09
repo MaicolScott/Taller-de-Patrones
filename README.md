@@ -81,9 +81,7 @@ El componente *Knowledge* fue implementado como un Singleton en memoria respalda
 
 ```
 
-**3. Diagrama de arquitectura (Entregable 4)**
-Solo les estaría faltando dibujar un esquema rápido. Pueden usar algo como *Draw.io* o *Lucidchart* para hacer cajas con "Monitor -> Analyze -> Plan -> Execute" y una base de datos al medio que diga "Knowledge", conectando el Monitor al servidor web.
+**3. Diagrama de arquitectura **
 
-Juntan las capturas, el diagrama y el código, ¡y ya tienen todo listo para subir la entrega al Campus Virtual!
 
 ```

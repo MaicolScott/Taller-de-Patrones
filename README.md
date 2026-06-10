@@ -6,8 +6,9 @@ Plataforma web educativa desarrollada en Java con Javalin y Maven, diseñada par
 ## Instrucciones de instalación y ejecución
 1. Clonar el repositorio.
 2. Abrir una terminal en la raíz del proyecto.
-3. Compilar y ejecutar el proyecto utilizando Maven.
-4. Acceder en el navegador a http://localhost:7000/content.
+3. Compilar y ejecutar el proyecto utilizando :
+   Maven.1..25 | ForEach-Object { curl.exe -s http://localhost:7000/content }
+5. Acceder en el navegador a http://localhost:7000/content.
 
 
 Componentes MAPE-K implementados

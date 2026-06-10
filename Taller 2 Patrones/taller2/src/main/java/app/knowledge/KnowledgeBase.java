@@ -22,10 +22,11 @@ public class KnowledgeBase {
         }
     }
 
-   private static final KnowledgeBase instance = new KnowledgeBase();
-
-    public static KnowledgeBase getInstance() {
-    return instance;
+   public static KnowledgeBase getInstance() {
+        if (instance == null) {
+            instance = new KnowledgeBase();
+        }
+        return instance;
     }
 
     public int incrementAndGetRequests() { return ++requestCount; }
